@@ -1,4 +1,5 @@
-## [Trudno odczytać tabelę? Otwórz ją tutaj.]([https://example.com](https://vmi1474134.contaboserver.net/tabela.html])
+## Trudno odczytać tabelę? Otwórz ją [tutaj.](https://vmi1474134.contaboserver.net/tabela.html)
+
 
 
 | Lp. | Pełna nazwa bukmachera                      | Informacje o bukmacherze                                                                                  | Status legalności | Bonusy i oferta startowa                    |
