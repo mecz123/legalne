@@ -1,3 +1,6 @@
+## [Trudno odczytać tabelę? Otwórz ją tutaj.]([https://example.com](https://vmi1474134.contaboserver.net/tabela.html))
+
+
 | Lp. | Pełna nazwa bukmachera                      | Informacje o bukmacherze                                                                                  | Status legalności | Bonusy i oferta startowa                    |
 |------|---------------------------------------------|-----------------------------------------------------------------------------------------------------------|------------------|---------------------------------------------|
 | 1    | Superbet Zakłady Bukmacherskie Sp. z o.o. | Wchodzący na polski rynek od 2017 roku. Znany z nowoczesnej aplikacji i szerokich promocji. Sponsoruje kilka klubów piłkarskich i Polski Związek Narciarski. | Legalny          | Freebety 35 i 20 zł, bonus od wpłaty 200 zł, tydzień bez ryzyka |
